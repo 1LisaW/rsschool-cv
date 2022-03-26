@@ -47,3 +47,17 @@ function solution(numbers) {
 * Designed and implemented HTML template of the App for gamification of performance reviews in Sberbank website department
   [Skillopus](https://github.com/1LisaW/skillopus)
 ---
+#### Education:
+***Faculty of Mathematics and Mechanics*** - _Saratov Chernyshevsky State University_ - 2008
+#### Courses:
+
+* Basic HTML & CSS, MIPT
+* JavaScript: basics and functions, MIPT
+* CSS - The Complete Guide 2022 (incl. Flexbox, Grid & Sass), Academind by Maximilian Schwarzmüller, Online Education;
+* Mastering data visualization in D3.js, Adam Janes, Data Visualization Engineer;
+* JavaScript Algorithms and Data Structures Masterclass. Colt Steele, Developer and Bootcamp Instructor;
+* React + Redux - Professional Development, Juriy Bura, Solution Architect;
+---
+#### English language:
+According to the EF's test [www.efset.org](https://www.efset.org/quick-check) my level of English is in the range of B1 INTERMEDIATE to B2 UPPER INTERMEDIATE
+![EF Score](/img/englvlEF.png)
